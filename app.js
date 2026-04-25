@@ -1,7 +1,7 @@
 const AI_PROVIDER = "groq";
 const GROQ_CONFIG = {
   url: "https://api.groq.com/openai/v1/chat/completions",
-  apiKey: GROQ_API_KEY,
+  apiKey: "GROQ_API_KEY",
   model: "llama-3.3-70b-versatile"
 };
 
